@@ -24,6 +24,17 @@
     border: 5px solid green;
 }
 
+.container {
+    border: 5px solid purple;
+    margin: auto;
+    width: 50%;
+}
+
+.itaewon,
+.hongdae {
+    width: 46.5%;
+}
+
 .itaewon {
     border: 5px solid blue;
     width: 400px;
@@ -47,6 +58,7 @@
 }
 
 .footer {
+    text-align: center;
     border: 5px solid yellow;
     font-weight: bold;
 }
